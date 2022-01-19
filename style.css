@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(231, 231, 231);
+}
+.add-btn:hover{
+    background-color: rgb(224, 172, 15) !important;
+}
+.card{
+    width: 300px;
+}
+.edit-btn{
+    background-color: rgb(97, 179, 97) !important;
+    color: white !important;
+    border: none;
+}
+.edit-btn:hover{
+    background-color: white !important;
+    color: rgb(97, 179, 97) !important;
+    box-shadow: 0px 0px 10px 1px grey !important;
+}
+.trash-btn{
+    background-color: rgb(223, 70, 70) !important;
+    color: white !important;
+    border: none;
+}
+.trash-btn:hover{
+    background-color: white !important;
+    color: rgb(223, 70, 70) !important;
+    box-shadow: 0px 0px 10px 1px grey !important;
+}
+textarea{
+    resize: none;
+}
+.hidden{
+    display: none;
+}
